@@ -19,12 +19,6 @@ class MenuActivity : AppCompatActivity() {
         }
 
         binding.btnMapa.setOnClickListener {
-            /*val addressUri = Uri.parse("geo:0,0?q=-12.1582295,-76.9809178")
-            val intent = Intent(Intent.ACTION_VIEW, addressUri)
-            intent.setPackage("com.google.android.apps.maps")
-            intent.resolveActivity(packageManager).let {
-                startActivity(intent)
-            }*/
             val intent = Intent(this, MapaActivity::class.java)
             startActivity(intent)
         }
