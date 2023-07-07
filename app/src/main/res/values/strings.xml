@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ev2</string>
+    <string name="titulo">MusicMix</string>
+    <string name="contenido">Escucha la mejor musica para cualquier \n ocasión de tu dia</string>
+    <string name="creador">Version 1.2.1</string>
+    <string name="boton">INGRESAR</string>
+    <string name="login">LOGIN</string>
+    <string name="ingreso">INGRESAR</string>
+    <string name="titulo2">── MusicMix ──</string>
+    <string name="menu">MENU PRINCIPAL</string>
+    <string name="camara">Cámara</string>
+    <string name="mapa">Mapa</string>
+    <string name="tomafoto">Tomar foto</string>
+    <string name="API_KEY">AIzaSyDSJzugDwQSdZ0h_V3_KR295PvCGdsyh6I</string>
+</resources>
